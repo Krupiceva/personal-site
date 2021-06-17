@@ -69,6 +69,10 @@ hr{
   text-align: left
 }
 
+.heading-img{
+  width: 30%;
+}
+
 .top-cloud{
   position: absolute;
   right: 300px;
